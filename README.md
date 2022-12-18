@@ -1,6 +1,5 @@
-### Hi there 👋 I am Fernando!
-- 🌱 I’m currently learning react.js
-- 🔭 I’m currently looking for work
+<!-- Header -->
+<h1 align="center">Hi there 👋 I am Fernando!</h1>
 
 <!-- Github Stats -->
 <div align="center">
